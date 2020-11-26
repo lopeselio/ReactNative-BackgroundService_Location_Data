@@ -48,6 +48,9 @@ for file operation).
 
 ### Note: This is an activity to be completed in 1 day.
 
+Run `expo install` or `yarn` or `npm start`
+Run `yarn start` or `npm start` or `expo start`
+
 ![1](https://github.com/lopeselio/ReactNative-Numadic-BackgroundService_Location_Data/blob/main/Screenshot%20(638).png)
 ![2](https://github.com/lopeselio/ReactNative-Numadic-BackgroundService_Location_Data/blob/main/Screenshot%20(639).png)
 ![3](https://github.com/lopeselio/ReactNative-Numadic-BackgroundService_Location_Data/blob/main/Screenshot%20(640).png)
